@@ -1,0 +1,11 @@
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\bin\Debug\netcoreapp3.1\Task_3.exe
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\bin\Debug\netcoreapp3.1\Task_3.deps.json
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.json
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.dev.json
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\bin\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\bin\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\obj\Debug\netcoreapp3.1\Task_3.csprojAssemblyReference.cache
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfoInputs.cache
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfo.cs
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\obj\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_2\Lesson_2\Task_3\obj\Debug\netcoreapp3.1\Task_3.pdb
