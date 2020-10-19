@@ -1,0 +1,9 @@
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\bin\Debug\Task_2.exe
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\obj\Debug\Task_2.Form1.resources
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\obj\Debug\Task_2.exe
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_2\obj\Debug\Task_2.pdb

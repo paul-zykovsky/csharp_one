@@ -1,0 +1,9 @@
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\bin\Debug\Task_1.exe
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\obj\Debug\Task_1.exe
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\obj\Debug\Task_1.pdb
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\Paul-Zykovsky\Desktop\geek\csharp_one\Hometasks\Lesson_7\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
